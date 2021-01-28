@@ -1,0 +1,21 @@
+{
+  "name": "hehorm",
+  "version": "0.0.1",
+  "description": "An orm for heh written in js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NowhereLTD/HehORM.git"
+  },
+  "author": "Louis Schmieder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NowhereLTD/HehORM/issues"
+  },
+  "homepage": "https://github.com/NowhereLTD/HehORM#readme",
+  "dependencies": {
+    "sync-mysql": "^3.0.1"
+  }
+}
